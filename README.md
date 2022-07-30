@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunoapavila
-- 👀 I’m interested in conhecer novas areas de atuação
-- 🌱 I’m currently learning  Analise e Desenvolvimento de Sistemas  
-- 💞️ Estou procurando me  me aprimorar mais na are de TI
+- 👀 I’m interested in Empreender em Tecnologias
+- 🌱 I’m currently learning  Analista em Desenvolvimento de Sistemas  
+- 💞️ ADS / ADB / Business Intelligence / SAP B1/ QA
 - 📫 How to reach me brunoap.avila@hotmail.com                  
 
 <!---
