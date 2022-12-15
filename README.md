@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brunoapavila
 - 👀 I’m interested in Empreender em Tecnologias
 - 🌱 I’m currently learning  Analista em Desenvolvimento de Sistemas  
-- 💞️ ADS / ADB / Business Intelligence / SAP B1/ QA
+- 💞️ Analista de testes QA / DBA / SAP BUSINESS ONE
 - 📫 How to reach me brunoap.avila@hotmail.com                  
 
 <!---
