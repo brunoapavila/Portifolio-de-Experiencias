@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunoapavila
-- 👀 I’m interested in Empreender em Tecnologias
+- 👀 I’m interested in Qualidade| Seguraça da Informação | Empreender em Tecnologias
 - 🌱 I’m currently learning  Analista em Desenvolvimento de Sistemas / Cientista de Dados 
 - 💞️ Analista de Segurança da Informação | Analista de testes QA Pentest | Hardware Hacking | Blue Team | Red Team | SOC
 - 📫 How to reach me brunoap.avila@hotmail.com                  
