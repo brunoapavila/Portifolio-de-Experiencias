@@ -1,8 +1,13 @@
 Bruno Aparecido de Avila
+
+QA (Quality Assurance) / QA Evangelist
+
 1198366-2354
+
 brunoap.avila@hotmail.com
 
 Breve descrição da minha jornada ate o momento:
+
 Formado em Analises e Desenvolvimento de Sistemas. Pós-Graduação em Engenharia de Software com ênfase em Qualidade e Testes de Software. MBA em Gestão da Qualidade de Software.
 
 Experiência em testes funcionais, automatizados, regressivos e de performance (JMeter), com integração em pipelines CI/CD com Jenkins e GitLab CI, atuando de forma colaborativa com times Agile/Scrum.
@@ -33,7 +38,9 @@ HardSkills:
 ✔️ Metodologias ágeis: Scrum, Kanban, BDD, TDD, Shift-Left Testing, JIRA, XRAY, Zephyr
 
 
+
 Experiencias:
+
 Analista de Testes II - Keeggo - 12/2022 à 11/2024
 
 Desenvolvimento de testes para o setores bancario (Meios de pagamento)
@@ -65,8 +72,11 @@ E atuei tambem como Analista de  Monitoramento e Observabilidade / SRE
 -Utilizando dos SOs Linux e Windows entre outros
 
 
+
 Experiencias:
+
 Analista de Testes Junior - Meta - 09/2021 à 01/2023
+
 Projeto: Para gerenciar alocações de profissionais e clientes em seus projetos e medir a satisfação dos clientes com NPS.
 
 - Teste de APIS com Postman e Insomnia
@@ -83,7 +93,9 @@ Regressivos, Performance, Back End, Front End,
 - Manutenção de scripts de testes quando necessário
 - Documentação para evidencias de acordo com as regras de negocio
 
+
 Objetivos:
+
 Pretendo me especializar cada vez mais na area da Qualidade com foco especial na segurança dos softwares e aplicações de modo geral como AppSec, DevSecOps, BlueTeam entre outros,
 trazendo assim mais qualidade, tanto nas funcionalidades como na segurança das aplicações e sendo um evangelista das boas praticas na Qualidade e Segurança para que isso se transforme em algo cultural dentro das organizações.
 
