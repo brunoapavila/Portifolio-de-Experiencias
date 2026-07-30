@@ -10,7 +10,7 @@
 
 # Bruno Aparecido de Avila
 
-🛡️ **QA Engineer · QA Evangelist · AppSec enthusiast**
+🛡️ **QA Engineer · QA Evangelist · AppSec DevSecOps**
 
 📧 brunoap.avila@hotmail.com  |  📱 (11) 98366-2354  |  🇧🇷 Brasil
 
@@ -26,12 +26,12 @@ Formado em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Engen
 
 | Área | Ferramentas |
 |------|------------|
-| Testes Manuais | Funcional, Regressivo, Exploratório, Mobile (Android/iOS) |
+| Testes Manuais | Funcional, Regressivo, Exploratório |
 | Automação Web | Selenium, Cypress, Playwright |
-| Automação Mobile | Robot Framework + Appium |
+| Automação Mobile | Appium | Mobile (Android/iOS) 
 | API | Postman, REST-assured |
 | Performance | JMeter |
-| Segurança | OWASP ZAP, Burp Suite, SAST/DAST |
+| Segurança | SDLC,SAST/DAST/SCA |
 
 ---
 
