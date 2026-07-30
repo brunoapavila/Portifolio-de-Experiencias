@@ -10,7 +10,7 @@
 
 # Bruno Aparecido de Avila
 
-🛡️ **QA Engineer · QA Evangelist · AppSec DevSecOps**
+🛡️ **QA Senior · SDET · Test Automation Engineer (Web & Mobile) · AppSec · DevSecOps**
 
 📧 brunoap.avila@hotmail.com  |  📱 (11) 98366-2354  |  🇧🇷 Brasil
 
