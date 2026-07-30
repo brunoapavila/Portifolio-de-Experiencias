@@ -41,6 +41,17 @@ QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de softwar
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
+Qualidade de Software: Test Strategy, Test Planning, Test Design, Shift-Left Testing, BDD, TDD, Testes Funcionais, Exploratórios, Regressão, Integração e Aceitação
+Linguagens: Java, C#, JavaScript, TypeScript, Python, SQL
+Automação Web: Playwright (C#/.NET, Java, JavaScript, TypeScript), Selenium WebDriver (Java), Cypress (JavaScript/TypeScript), Robot Framework (Python)
+Automação Mobile: Appium (Java), Android (Nativo, Híbrido, WebView), iOS (Nativo, Híbrido, WebView), Mobile Center (OpenText), BrowserStack, Device Farm, Android Studio (AVD), ADB
+APIs: REST, SOAP, Postman, Bruno, RestAssured (Java), Swagger/OpenAPI
+Banco de Dados: Oracle, SQL Server, MySQL, SQL, DBeaver
+DevOps & CI/CD: Git, GitHub, GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps, Docker, Maven, Nexus, JFrog
+Gestão de Qualidade: JIRA/Xray, QTest, Zephyr Scale, Confluence, MC-Mobile Center, Micro Focus (Mainframe)
+IA Aplicada: GitHub Copilot (produtividade em automação), QA para Chatbots/IA Conversacional (prompt tuning)
+Cloud: AWS, Azure, GCP
+AppSec & DevSecOps: OWASP Top 10, OWASP ASVS, OWASP ZAP, Burp Suite, SonarQube, Snyk, Threat Modeling, SAST, DAST, SCA, Secure SDLC, API Security Testing, Mobile Security Testing, Validação de Pentest de Terceiros, Segurança em Migração Cloud (AWS) 
 ---
 
 ## ☁️ DevOps, Cloud & Observabilidade
