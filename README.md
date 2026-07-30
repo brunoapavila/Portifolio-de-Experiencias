@@ -92,9 +92,23 @@ Consultoria especializada em Qualidade de Software e Transformação Digital. Cl
 
 > Testes no setor financeiro (meios de pagamento). API (Postman/Swagger), BDD/Gherkin, automação com Java, Playwright, Robot Framework e Appium. JIRA/Xray, Scrum, consultas SQL, verificação de processos ETL/SaaS.
 
-Projeto Cielo — Sistema Cobransaas Sistema de cobrança voltado à negociação de dívidas e taxas de mensalidade de máquinas de cartão, com foco em dar mais transparência e agilidade ao acordo entre a operadora e o cliente final. • Estratégia de testes: elaborou e executou o plano de testes manuais do sistema, cobrindo os principais fluxos de negociação e cobrança. • Automação Web: automatizou os fluxos de regressão mais repetitivos do front-end com Cypress (JavaScript/TypeScript), reduzindo o tempo gasto em testes manuais a cada nova release.
+Projeto Cielo — Sistema Cobransaas Sistema de cobrança voltado à negociação de dívidas e taxas de mensalidade de máquinas de cartão, com foco em dar mais transparência e agilidade ao acordo entre a operadora e o cliente final.
 
-Projeto Fiserv — Sistema CLOVER (Cadastro e Credenciamento) Plataforma de credenciamento para adesão a serviços financeiros de pagamento via máquinas de cartão e domicílios bancários, cobrindo todo o fluxo de cadastro do cliente. • Estratégia de testes: responsável pela elaboração e execução dos testes do sistema em múltiplas frentes — homologação, exploratórios, funcionais, regressivos e de performance. • Testes de API: validou contratos e integrações via Postman e Swagger/OpenAPI, incluindo a verificação de processos entre camadas ETL, aplicações Java e serviços SaaS. • BDD: escreveu cenários de teste em Gherkin (incluindo Scenario Outline), aplicando BDD para alinhar critérios de aceite entre QA, desenvolvimento e negócio. • Automação: desenvolveu e manteve testes automatizados com Playwright em Java, JavaScript e TypeScript. • Gestão do ciclo de testes: gerenciou casos de teste e defeitos em JIRA/Xray, QTest e Zephyr Scale, documentou processos no Confluence, versionou scripts no GitLab e validou dados via consultas SQL; participou ativamente das cerimônias Scrum e da elaboração de status reports para o time. 
+• Estratégia de testes: elaborou e executou o plano de testes manuais do sistema, cobrindo os principais fluxos de negociação e cobrança.
+
+• Automação Web: automatizou os fluxos de regressão mais repetitivos do front-end com Cypress (JavaScript/TypeScript), reduzindo o tempo gasto em testes manuais a cada nova release.
+
+Projeto Fiserv — Sistema CLOVER (Cadastro e Credenciamento) Plataforma de credenciamento para adesão a serviços financeiros de pagamento via máquinas de cartão e domicílios bancários, cobrindo todo o fluxo de cadastro do cliente.
+
+• Estratégia de testes: responsável pela elaboração e execução dos testes do sistema em múltiplas frentes — homologação, exploratórios, funcionais, regressivos e de performance.
+
+• Testes de API: validou contratos e integrações via Postman e Swagger/OpenAPI, incluindo a verificação de processos entre camadas ETL, aplicações Java e serviços SaaS.
+
+• BDD: escreveu cenários de teste em Gherkin (incluindo Scenario Outline), aplicando BDD para alinhar critérios de aceite entre QA, desenvolvimento e negócio.
+
+• Automação: desenvolveu e manteve testes automatizados com Playwright em Java, JavaScript e TypeScript.
+
+• Gestão do ciclo de testes: gerenciou casos de teste e defeitos em JIRA/Xray, QTest e Zephyr Scale, documentou processos no Confluence, versionou scripts no GitLab e validou dados via consultas SQL; participou ativamente das cerimônias Scrum e da elaboração de status reports para o time. 
 
 ---
 
