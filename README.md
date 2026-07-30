@@ -89,15 +89,25 @@ AppSec & DevSecOps: OWASP Top 10, OWASP ASVS, OWASP ZAP, Burp Suite, SonarQube, 
 
 **Analista de Testes Pleno II** · Keeggo *(12/2022 – 11/2024)*
 Consultoria especializada em Qualidade de Software e Transformação Digital. Clientes: Cielo e Fiserv
+
 > Testes no setor financeiro (meios de pagamento). API (Postman/Swagger), BDD/Gherkin, automação com Java, Playwright, Robot Framework e Appium. JIRA/Xray, Scrum, consultas SQL, verificação de processos ETL/SaaS.
 
-Projeto Cielo — Sistema Cobransaas Sistema de cobrança voltado à negociação de dívidas e taxas de mensalidade de máquinas de cartão, com foco em dar mais transparência e agilidade ao acordo entre a operadora e o cliente final. • Estratégia de testes: elaborou e executou o plano de testes manuais do sistema, cobrindo os principais fluxos de negociação e cobrança. • Automação Web: automatizou os fluxos de regressão mais repetitivos do front-end com Cypress (JavaScript/TypeScript), reduzindo o tempo gasto em testes manuais a cada nova release. Projeto Fiserv — Sistema CLOVER (Cadastro e Credenciamento) Plataforma de credenciamento para adesão a serviços financeiros de pagamento via máquinas de cartão e domicílios bancários, cobrindo todo o fluxo de cadastro do cliente. • Estratégia de testes: responsável pela elaboração e execução dos testes do sistema em múltiplas frentes — homologação, exploratórios, funcionais, regressivos e de performance. • Testes de API: validou contratos e integrações via Postman e Swagger/OpenAPI, incluindo a verificação de processos entre camadas ETL, aplicações Java e serviços SaaS. • BDD: escreveu cenários de teste em Gherkin (incluindo Scenario Outline), aplicando BDD para alinhar critérios de aceite entre QA, desenvolvimento e negócio. • Automação: desenvolveu e manteve testes automatizados com Playwright em Java, JavaScript e TypeScript. • Gestão do ciclo de testes: gerenciou casos de teste e defeitos em JIRA/Xray, QTest e Zephyr Scale, documentou processos no Confluence, versionou scripts no GitLab e validou dados via consultas SQL; participou ativamente das cerimônias Scrum e da elaboração de status reports para o time. 
+Projeto Cielo — Sistema Cobransaas Sistema de cobrança voltado à negociação de dívidas e taxas de mensalidade de máquinas de cartão, com foco em dar mais transparência e agilidade ao acordo entre a operadora e o cliente final. • Estratégia de testes: elaborou e executou o plano de testes manuais do sistema, cobrindo os principais fluxos de negociação e cobrança. • Automação Web: automatizou os fluxos de regressão mais repetitivos do front-end com Cypress (JavaScript/TypeScript), reduzindo o tempo gasto em testes manuais a cada nova release.
 
+Projeto Fiserv — Sistema CLOVER (Cadastro e Credenciamento) Plataforma de credenciamento para adesão a serviços financeiros de pagamento via máquinas de cartão e domicílios bancários, cobrindo todo o fluxo de cadastro do cliente. • Estratégia de testes: responsável pela elaboração e execução dos testes do sistema em múltiplas frentes — homologação, exploratórios, funcionais, regressivos e de performance. • Testes de API: validou contratos e integrações via Postman e Swagger/OpenAPI, incluindo a verificação de processos entre camadas ETL, aplicações Java e serviços SaaS. • BDD: escreveu cenários de teste em Gherkin (incluindo Scenario Outline), aplicando BDD para alinhar critérios de aceite entre QA, desenvolvimento e negócio. • Automação: desenvolveu e manteve testes automatizados com Playwright em Java, JavaScript e TypeScript. • Gestão do ciclo de testes: gerenciou casos de teste e defeitos em JIRA/Xray, QTest e Zephyr Scale, documentou processos no Confluence, versionou scripts no GitLab e validou dados via consultas SQL; participou ativamente das cerimônias Scrum e da elaboração de status reports para o time. 
+
+---
 
 **Analista de Testes Pleno II** . META *(Set/2021 – Nov/2022)*
 Consultoria especializada em desenvolvimento de software e alocação de profissionais. Cliente: Plataforma Corporativa de Gestão
 
-• Testes funcionais e exploratórios: planejou e executou ciclos de teste funcional e exploratório em plataforma corporativa de gestão, identificando falhas antes da produção. • Testes de API: validou endpoints REST garantindo integridade de contratos e regras de negócio. • Validação de dados: executou validações SQL para assegurar consistência entre camadas de aplicação e banco de dados. • Suporte ágil: atuou junto a squads ágeis em cerimônias de refinamento e planejamento, antecipando riscos de qualidade. 
+• Testes funcionais e exploratórios: planejou e executou ciclos de teste funcional e exploratório em plataforma corporativa de gestão, identificando falhas antes da produção.
+
+• Testes de API: validou endpoints REST garantindo integridade de contratos e regras de negócio.
+
+• Validação de dados: executou validações SQL para assegurar consistência entre camadas de aplicação e banco de dados.
+
+• Suporte ágil: atuou junto a squads ágeis em cerimônias de refinamento e planejamento, antecipando riscos de qualidade. 
 
 
 ---
