@@ -18,24 +18,22 @@
 
 ## 👤 Sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Engenharia de Software e MBA em Gestão da Qualidade. Experiência em grandes instituições financeiras (Cielo, Fiserv, BV, Bradesco, Santander). Foco em entregar qualidade de ponta a ponta e ser um evangelista de boas práticas de QA e segurança nas organizações.
+QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de software, automação e segurança da aplicação — o profissional que garante não só que o sistema funciona, mas que funciona de forma segura. Pós-graduando em Segurança da Informação (AppSec & DevSecOps), com MBA em Gestão da Qualidade e Pós-Graduação em Engenharia de Software, em busca de especialização contínua na integração entre qualidade e segurança ao longo de todo o SDLC. Já conduziu de ponta a ponta análises de vulnerabilidade com SAST, DAST e SCA (SonarQube, OWASP ZAP, Snyk), incluindo a remediação e o fechamento bem-sucedido de achados de Pentest em ambiente de produção. Combina isso com forte domínio de automação Web e Mobile (Playwright, Selenium, Cypress, Appium) e CI/CD em projetos dos setores Financeiro, Bancário, Meios de Pagamento, Construção Civil e Propriedade Intelectual. Objetivo de carreira: se aprofundar em Segurança da Informação e consolidar a atuação como referência em qualidade orientada à segurança (Security-Driven QA)..
 
 ---
 
-## 🧪 Testes & Automação
+## 🧪 PRINCIPAIS RESULTADOS
 
-| Área | Ferramentas |
-|------|------------|
-| Testes Manuais | Funcional, Regressivo, Exploratório |
-| Automação Web | Selenium, Cypress, Playwright |
-| Automação Mobile | Appium | Mobile (Android/iOS) 
-| API | Postman, REST-assured |
-| Performance | JMeter |
-| Segurança | SDLC,SAST/DAST/SCA |
+• Automação multiplataforma: arquitetura e evolução de frameworks de automação Web e Mobile com Playwright, Selenium, Cypress e Appium, reduzindo tempo de regressão manual e aumentando cobertura de testes.
+• Projetos de alta relevância: atuação em frentes críticas para Bradesco, Next, Cielo, Fiserv, Lavvi e Dannemann Siemsen, em ambientes de alta criticidade regulatória e de segurança.
+• Integração contínua: automação de aplicações Web, Mobile e APIs integradas a pipelines CI/CD (GitHub Actions, Jenkins, GitLab CI, Azure DevOps), acelerando o ciclo de entrega.
+• Multissetorial: experiência consolidada nos segmentos Financeiro, Bancário, Meios de Pagamento, Construção Civil e Propriedade Intelectual.
+• Qualidade orientada a segurança: aplicação de BDD, POM, Secure SDLC e princípios de AppSec/DevSecOps ao longo de todo o ciclo de testes.
+• Validação de dados críticos: testes de APIs REST, bancos Oracle e SQL Server, e integrações de sistemas de missão crítica. 
 
 ---
 
-## 💻 Linguagens & Banco de Dados
+## 💻 PRINCIPAIS COMPETÊNCIAS 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
