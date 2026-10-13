@@ -1,16 +1,18 @@
 
 <!-- Visitor counter -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brunoapavila&amp;color=blue&amp;style=flat-square&amp;label=Visitors" alt="Visitors" />
-</p>
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=brunoapavila&color=blue&style=flat-square&label=Visitors)
+
+</div>
 
 
 ---
 
 # Bruno Aparecido de Avila
 
-🛡️ **QA Senior · SDET · Test Automation Engineer (Web & Mobile) · AppSec · DevSecOps**
+🛡️ **Quality Engineer | AppSec & DevSecOps | Software Quality & Security | SDET | AI-Assisted Development | AI-Native Software Engineer | Secure SDLC | Application Security Engineer | QA Automation Engineer**
 
 📧 brunoap.avila@hotmail.com  |  📱 (11) 98366-2354  |  🇧🇷 Brasil
 
@@ -60,6 +62,7 @@ Validação de sistemas críticos: Testes de APIs REST, bancos de dados Oracle e
 
 Desenvolvimento assistido por IA: Criação de sistemas e automações com Inteligência Artificial Generativa, combinando Prompt Engineering, Vibe Coding, revisão de código, testes e práticas de segurança para acelerar o 
 desenvolvimento com qualidade.
+
 ---
 
 ## 💻 PRINCIPAIS COMPETÊNCIAS 
