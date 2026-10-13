@@ -1,7 +1,10 @@
 
 
-<!-- Visitor counter -->
-![Visitors](https://komarev.com/ghpvc/?username=brunoapavila)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=brunoapavila&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 
 ---
