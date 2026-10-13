@@ -1,11 +1,9 @@
 
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=brunoapavila&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/brunoapavila">
+    <img src="https://komarev.com/ghpvc/?username=brunoapavila" alt="Profile views" />
+  </a>
+</p>
 
 ---
 
