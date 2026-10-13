@@ -1,6 +1,7 @@
 
 
-![Visitors](https://komarev.com/ghpvc/?username=brunoapavila%26color=blue%26style=flat-square%26label=Visitors)
+<!-- Visitor counter -->
+![Visitors](https://komarev.com/ghpvc/?username=brunoapavila)
 
 
 ---
