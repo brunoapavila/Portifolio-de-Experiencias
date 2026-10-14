@@ -153,7 +153,7 @@ AppSec & DevSecOps: OWASP Top 10, OWASP ASVS, OWASP ZAP, Burp Suite, SonarQube, 
 
 ## 💼 EXPERIÊNCIA PROFISSIONAL 
 
-**Analista de Testes Pleno II** · Foursys *(12/2024 - )*
+**Analista de Testes Pleno II** · Foursys *( - )*
 Analista de Testes II | Quality Assurance | Mobile Test Automation
 
 Atuação em projetos de tecnologia do setor financeiro, com foco em Engenharia da Qualidade, validação funcional e automação de testes de aplicações bancárias mobile.
